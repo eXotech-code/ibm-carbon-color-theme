@@ -450,7 +450,7 @@
 				"keyword.operator.minus.exponent"
 			],
 			"settings": {
-				"foreground": "#B5CEA8"
+				"foreground": "#78a9ff" // Blue 40
 			}
 		},
 		{
@@ -468,7 +468,7 @@
 		{
 			"scope": "entity.name.tag.css",
 			"settings": {
-				"foreground": "#D7BA7D"
+				"foreground": "#be95ff" // Purple 40
 			}
 		},
 		{
@@ -489,7 +489,15 @@
 				"entity.other.attribute-name.scss"
 			],
 			"settings": {
-				"foreground": "#D7BA7D"
+				"foreground": "#be95ff" // Purple 40
+			}
+		},
+		{
+			"scope": [
+				"support.function.misc.css",
+			],
+			"settings": {
+				"foreground": "#9ef0f0", // Teal 20
 			}
 		},
 		{
@@ -626,7 +634,7 @@
 				"meta.embedded.assembly"
 			],
 			"settings": {
-				"foreground": "#CE9178"
+				"foreground": "#ff7eb6" // Magenta 40
 			}
 		},
 		{
@@ -675,19 +683,19 @@
 				"source.coffee.embedded"
 			],
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#9ef0f0" // Teal 20
 			}
 		},
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#be95ff" // Purple 40
 			}
 		},
 		{
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#be95ff" // Purple 40
 			}
 		},
 		{
@@ -716,7 +724,7 @@
 		{
 			"scope": "keyword.other.unit",
 			"settings": {
-				"foreground": "#B5CEA8"
+				"foreground": "#78a9ff" // Blue 40
 			}
 		},
 		{
