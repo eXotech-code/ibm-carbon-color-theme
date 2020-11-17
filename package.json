@@ -1,0 +1,21 @@
+{
+    "name": "theme-ibm-carbon-color-theme",
+    "displayName": "theme-ibm-carbon-color-theme",
+    "description": "Dark color theme based on IBM's Carbon Design System code snippets colors.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "IBM Carbon Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/IBM Carbon Color Theme-color-theme.json"
+            }
+        ]
+    }
+}
