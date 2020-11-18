@@ -561,7 +561,7 @@
 		{
 			"scope": "markup.quote",
 			"settings": {
-				"foreground": "#ff7eb6", // Magenta 20
+				"foreground": "#ff7eb6", // Magenta 40
 			}
 		},
 		{
@@ -627,22 +627,29 @@
 		{
 			"scope": "storage",
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#be95ff" // Purple 40
 			}
 		},
 		{
-			"scope": "storage.type",
+			"scope": "storage.type.function.arrow",
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#78a9ff", // Blue 40
 			}
 		},
+		// I don't know if this part is necessary
+		// {
+		// 	"scope": "storage.type",
+		// 	"settings": {
+		// 		"foreground": "#be95ff" // Purple 40
+		// 	}
+		// },
 		{
 			"scope": [
 				"storage.modifier",
 				"keyword.operator.noexcept"
 			],
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#be95ff" // Purple 40
 			}
 		},
 		{
@@ -718,7 +725,7 @@
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#D4D4D4"
+				"foreground": "#78a9ff" // Blue 40
 			}
 		},
 		{
@@ -816,6 +823,18 @@
 			"settings": {
 				"foreground": "#B267E6"
 			}
-		}
+		},
+		{
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "#9ef0f0", // Teal 20
+			}
+		},
+		{
+			"scope": "meta.function-call",
+			"settings": {
+				"foreground": "#9ef0f0", // Teal 20
+			}
+		},
 	]
 }
