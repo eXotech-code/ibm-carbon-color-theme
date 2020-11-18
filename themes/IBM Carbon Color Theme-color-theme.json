@@ -829,6 +829,7 @@
 			"scope": "entity.name.function",
 			"settings": {
 				"foreground": "#9ef0f0", // Teal 20
+				"fontStyle": ""
 			}
 		},
 		{
