@@ -443,6 +443,18 @@
 			}
 		},
 		{
+			"scope": "constant.language.boolean.true",
+			"settings": {
+				"foreground": "#42be65", // Green 40
+			}
+		},
+		{
+			"scope": "constant.language.boolean.false",
+			"settings": {
+				"foreground": "#ff8389", // Red 40
+			}
+		},
+		{
 			"scope": [
 				"constant.numeric",
 				"variable.other.enummember",
@@ -783,9 +795,10 @@
 			}
 		},
 		{
-			"scope": "variable.language",
+			"scope": "variable.language.this.js",
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#ff8389", // Red 40
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -836,5 +849,18 @@
 				"foreground": "#9ef0f0", // Teal 20
 			}
 		},
+		{
+			"scope": "variable",
+			"settings": {
+				"foreground": "#fff",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "support.class",
+			"settings": {
+				"foreground": "#fff",
+			}
+		}
 	]
 }
