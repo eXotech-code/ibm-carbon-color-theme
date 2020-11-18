@@ -1,9 +1,7 @@
 # Change Log
 
-All notable changes to the "theme-ibm-carbon-color-theme" extension will be documented in this file.
+All versions along with information about notable changes will be added to this change log.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
+## [1.0.0] - 2020-11-18
 
 - Initial release
