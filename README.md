@@ -20,7 +20,7 @@ After unpacking the font change your VS Code settings to include it.
 
 ## Contributions
 
-If you want to contribute to this project, you can go it's GitHub repo and fork it. I would be very glad for programmers using languages such as Java, Rust or C to build support for those languages into IBM Carbon Theme!
+If you want to contribute to this project, you can go to it's [GitHub repo](https://github.com/eXotech-code/ibm-carbon-color-theme) and fork it. I would be very glad for programmers using languages such as Java, Rust or C to build support for those languages into IBM Carbon Theme!
 
 Don't know how to edit this theme? [Here you go](https://code.visualstudio.com/api/extension-guides/color-theme).
 
