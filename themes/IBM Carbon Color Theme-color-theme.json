@@ -431,12 +431,6 @@
 			}
 		},
 		{
-			"scope": "comment",
-			"settings": {
-				"foreground": "#6A9955"
-			}
-		},
-		{
 			"scope": "constant.language",
 			"settings": {
 				"foreground": "#be95ff" // Purple 40
@@ -804,13 +798,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#6F6F6F"
-			}
-		},
-		{
-			"scope": "punctuation.definition.comment",
-			"settings": {
-				"foreground": "#6F6F6F"
+				"foreground": "#6F6F6F",
 			}
 		},
 		{
@@ -860,6 +848,12 @@
 			"scope": "support.class",
 			"settings": {
 				"foreground": "#fff",
+			}
+		},
+		{
+			"scope": "constant.character.escape",
+			"settings": {
+				"foreground": "#ff8389", // Red 40
 			}
 		}
 	]

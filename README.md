@@ -1,13 +1,19 @@
-# README
-## This is the README for your extension "theme-ibm-carbon-color-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# IBM Carbon Color Theme  
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Visual Studio Code color theme based on [IBM Carbon Design System](https://www.carbondesignsystem.com/) code snippets and [IBM Design Language](https://www.ibm.com/design/language/color/) color palette.  
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+This theme features syntax highlighting optimized for JavaScript, HTML, CSS, JSON and Markdown files as well as a fully fledged **workbench theme**.
 
-**Enjoy!**
+![JavaScript example screenshot](./screenshots/BaselineTest.png)  
+
+## Recommended font
+
+IBM Carbon Theme is made to work with [IBM Plex Mono](https://www.ibm.com/plex/) font so this is what I recommend using. You can download it [here](https://github.com/IBM/plex/releases/tag/v5.1.3).
+
+### Configuration
+
+After unpacking the font change your VS Code settings to include it.
+![VS Code settings screenshot](./screenshots/Font.png)
+
+## Credits
+[IBM](https://www.ibm.com/)
