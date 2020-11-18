@@ -2,7 +2,11 @@
     "name": "theme-ibm-carbon-color-theme",
     "displayName": "theme-ibm-carbon-color-theme",
     "description": "Dark color theme based on IBM's Carbon Design System code snippets colors.",
-    "version": "0.0.1",
+    "version": "0.1.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/eXotech-code/ibm-carbon-color-theme"
+    },
     "engines": {
         "vscode": "^1.51.0"
     },
