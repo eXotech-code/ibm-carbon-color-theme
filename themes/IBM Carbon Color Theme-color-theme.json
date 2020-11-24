@@ -466,6 +466,12 @@
 			}
 		},
 		{
+			"scope": "entity.name.tag.yaml",
+			"settings": {
+				"foreground": "#9ef0f0", // Teal 20
+			}
+		},
+		{
 			"scope": "entity.name.tag.css",
 			"settings": {
 				"foreground": "#be95ff" // Purple 40
