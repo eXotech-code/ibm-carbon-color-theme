@@ -4,7 +4,7 @@
     "description": "Dark color theme based on IBM's Carbon Design System code snippets colors.",
     "icon": "icon.png",
     "publisher": "eXotech-code",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "homepage": "https://github.com/eXotech-code/ibm-carbon-color-theme",
     "repository": {
         "type": "git",

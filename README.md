@@ -2,7 +2,7 @@
 
 Visual Studio Code color theme based on [IBM Carbon Design System](https://www.carbondesignsystem.com/) code snippets and [IBM Design Language](https://www.ibm.com/design/language/color/) color palette.  
 
-This theme features syntax highlighting optimized for JavaScript, HTML, CSS, JSON and Markdown files (more filetypes coming!) as well as a fully fledged **workbench theme**.
+This theme features syntax highlighting optimized for JavaScript, HTML, CSS, JSON, YAML and Markdown files (more filetypes coming!) as well as a fully fledged **workbench theme**.
 
 ![JavaScript example screenshot](screenshots/BaselineTest.png)  
 
