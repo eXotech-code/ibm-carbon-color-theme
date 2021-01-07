@@ -33,6 +33,11 @@
                 "label": "IBM Carbon Color Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/IBM Carbon Color Theme-color-theme.json"
+            },
+            {
+                "label": "IBM Carbon Color Theme Pure",
+                "uiTheme": "vs-dark",
+                "path": "./themes/IBM Carbon Color Theme Pure.json"
             }
         ]
     }
