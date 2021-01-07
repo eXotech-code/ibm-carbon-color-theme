@@ -1,10 +1,14 @@
 # IBM Carbon Color Theme  
 
-Visual Studio Code color theme based on [IBM Carbon Design System](https://www.carbondesignsystem.com/) code snippets and [IBM Design Language](https://www.ibm.com/design/language/color/) color palette.  
+A set of two Visual Studio Code color themes based on [IBM Carbon Design System](https://www.carbondesignsystem.com/) code snippets and [IBM Design Language](https://www.ibm.com/design/language/color/) color palette.  
 
-This theme features syntax highlighting optimized for JavaScript, HTML, CSS, JSON, YAML and Markdown files (more filetypes coming!) as well as a fully fledged **workbench theme**.
+Both themes are featuring syntax highlighting optimized for JavaScript, HTML, CSS, JSON, YAML, C++ and Markdown files (more filetypes coming!) as well as a fully fledged **workbench theme**.
 
-![JavaScript example screenshot](screenshots/BaselineTest.png)  
+### Standard theme optimized for readability
+![JavaScript example screenshot](screenshots/BaselineTest.png)
+
+### Purist theme staying true to IBM Design Language
+![Example screenshot for purist theme](#)
 
 ## Recommended font
 

@@ -818,8 +818,14 @@
 		{
 			"scope": "variable.language.this.js",
 			"settings": {
-				"foreground": "#ff8389", // Red 40
+				"foreground": "#9ef0f0", // Teal 20
 				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": "variable",
+			"settings": {
+				"foreground": "#ff7eb6" // Magenta 40
 			}
 		},
 		{
@@ -864,12 +870,12 @@
 				"foreground": "#9ef0f0" // Teal 20
 			}
 		},
-		{
-			"scope": "meta.function-call",
-			"settings": {
-				"foreground": "#9ef0f0" // Teal 20
-			}
-		},
+		// {
+		// 	"scope": "meta.function-call",
+		// 	"settings": {
+		// 		"foreground": "#9ef0f0" // Teal 20
+		// 	}
+		// },
 		{
 			"scope": "support.class",
 			"settings": {
